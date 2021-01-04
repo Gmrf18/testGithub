@@ -6,6 +6,12 @@
     <title>titulo</title>
 </head>
 <body>
+<div class="hola">
+    <li>paso1</li>
+    <li>paso2</li>
+    <li>paso3</li>
+    <li>paso</li>
+</div>
     
 </body>
 </html>
