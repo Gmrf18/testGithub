@@ -12,6 +12,7 @@
     <li>paso3</li>
     <li>pasoCuatro</li>
      <li>paso5</li>
+     <li>pasoseis</li>
     
 </div>
 <p>nuevo parrafo</p>
