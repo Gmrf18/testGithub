@@ -7,11 +7,16 @@
 </head>
 <body>
 <div class="hola">
-    <li>paso1</li>
-    <li>paso2</li>
-    <li>paso3</li>
-    <li>paso</li>
+    <li>pasoUno</li>
+    <li>pasoDos</li>
+    <li>pasotres</li>
+    <li>pasoCuatro</li>
+    <li>pasocinco</li>
+    <li>pasoseis</li>
+    
 </div>
+<p>nuevo parrafo</p>
+    
     
 </body>
 </html>
