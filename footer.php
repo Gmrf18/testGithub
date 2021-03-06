@@ -9,6 +9,6 @@
 <body>
     
 
-    <footer>super pieee </footer>
+    <footer class="pie">super pieee </footer>
 </body>
 </html>
