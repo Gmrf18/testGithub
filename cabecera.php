@@ -9,9 +9,9 @@
 <div class="hola">
     <li>pasoUno</li>
     <li>pasoDos</li>
-    <li>paso3</li>
+    <li>pasotres</li>
     <li>pasoCuatro</li>
-     <li>paso5</li>
+     <li>pasocinco</li>
     
 </div>
 <p>nuevo parrafo</p>
