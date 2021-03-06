@@ -7,8 +7,8 @@
 </head>
 <body>
 <div class="hola">
-    <li>pasoUno</li>
-    <li>pasoDos</li>
+    <li>pasoUno nueva</li>
+    <li>pasoDos nueva</li>
     <li>pasotres</li>
     <li>pasoCuatro</li>
     <li>pasocinco</li>
